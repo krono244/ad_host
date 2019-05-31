@@ -1,0 +1,22 @@
+kissanime.ru###divAds2 > iframe
+kissanime.ru###adsIfrme1
+kissanime.ru###rightside > div.sg_hide_element:nth-child(5)
+kissanime.ru###containerRoot > div.clear.sg_hide_element:nth-child(9)
+kissanime.ru###containerRoot > div.clear.sg_hide_element:nth-child(8)
+kissanime.ru###containerRoot > div.clear.sg_hide_element:nth-child(7)
+kissanime.ru###containerRoot > div.clear.sg_hide_element:nth-child(6)
+kissanime.ru###containerRoot > div.clear.sg_hide_element:nth-child(5)
+kissanime.ru###rightside > div:nth-child(5) > div:first-child
+kissasian.sh###mgiframe2
+kissanime.ru###adsIfrme6
+jp.pornhub.com###mobileContainer > div.adContainer.clearfix:first-child
+jp.pornhub.com###mobileContainer > div.pageWrapper.homePage.fullWidth:nth-child(2) > div.adContainer.clearfix.sg_hide_element:nth-child(10)
+jp.pornhub.com###mobileContainer > div.topAdContainter:nth-child(2) > div.adContainer.clearfix.sg_hide_element
+jp.pornhub.com###videoShow > div.adContainer.clearfix.sg_hide_element:last-child
+jp.pornhub.com###mobileContainer > div.pageWrapper.homePage.fullWidth:nth-child(2) > div.adContainer.clearfix:nth-child(10) > iframe.sg_hide_element:first-child
+jp.pornhub.com###mobileContainer > div.pageWrapper.homePage.fullWidth:nth-child(2) > div.adContainer.clearfix:nth-child(10)
+jp.pornhub.com###mobileContainer > div.topAdContainter:nth-child(2) > div.adContainer.clearfix
+jp.pornhub.com###videoShow > div.adContainer.clearfix:last-child
+kissanime.ru###leftside > center:nth-child(2)
+xvideos.com###ad-header-mobile-contener
+xvideos.com###page > div.remove-ads:nth-child(8)
