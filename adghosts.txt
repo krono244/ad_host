@@ -2927,7 +2927,6 @@
 ||sdk.open.phone.igexin.com^
 ||sdkm.w.inmobi.com^
 ||sdt1.corp.inmobi.com^
-||search.spotxchange.com^
 ||searchteria.co.jp^
 ||secserv.adtech.de^
 ||secure.adnxs.com^
